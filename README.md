@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ruinncode
+- 🍊 interested in learning javascript and swift for software development
+- 🦫  How to reach me: @caffeineneutral on instagram
